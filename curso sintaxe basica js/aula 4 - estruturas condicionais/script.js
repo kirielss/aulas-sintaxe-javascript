@@ -13,7 +13,7 @@ var placar;
 } */
 
 // if ternário: faz a verificação em uma única linha
-/* COMO FUNCIIONA:
+/* COMO FUNCIONA:
 condition ? expr1 : expr2 
 
 condition
